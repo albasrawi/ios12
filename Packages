@@ -1,0 +1,14 @@
+Package: org.ioshack.icontool
+Version: 1.9-7
+Architecture: iphoneos-arm
+Maintainer: Albasrawi9 <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
+Filename: icontool.deb
+Size: 1712
+MD5sum: 433f4d7e88f48048fbd9364ab0ceccec
+SHA1: 9913F9F5680531AFF8DF28214C272537346850C1
+SHA256: 9CBD0386A1C9C1FBDEEBD2CF3492F32384C64F0211504887EF6E05A8A5B50BDD
+Section: Tweaks
+Description: app tools menu from jiggle mode
+Author: Albasrawi <alikamel.com@gmail.com>
+Name: icontool
